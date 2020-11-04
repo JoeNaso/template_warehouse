@@ -3,4 +3,4 @@ help: ## Show this
 
 profile: ## Copy the profiles.yml template ot the place that DBT expects it to be
 	mkdir -p ~/.dbt
-	cp data_warehouse/profiles.yml ~/.dbt/
+	cp warehouse/profiles.yml ~/.dbt/
