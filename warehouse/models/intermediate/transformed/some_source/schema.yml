@@ -1,0 +1,4 @@
+version: 2
+
+# This is intentionally blank bc im too lazy to include tests in this example, but you should include tests
+# These XF models are where you're likely to run into exploding joins and unintentional duplicates, so uniqueness and relational tests are your friend in this area
